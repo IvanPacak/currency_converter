@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "currency-converter",
+    "slug": "currency-converter",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon-forex.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon-forex.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon-forex.jpg",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon-forex.jpg"
+    }
+  }
+}
